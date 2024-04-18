@@ -21,10 +21,11 @@ body {
 }
 
 /* Contacto */
+/* Cambio de color realizado por Nicolás Escudero*/
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #a65b28;
 }
 
 @media (max-width: 768px) {
